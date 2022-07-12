@@ -1,0 +1,16 @@
+{
+  "name": "qnm-repro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "BeeeQueue",
+  "license": "ISC",
+  "devDependencies": {
+    "@storybook/builder-vite": "^0.1.39",
+    "vite": "^2.9.14"
+  }
+}
